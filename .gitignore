@@ -1,4 +1,4 @@
-checkpnt.chk
-nvt_output.log
-nvt_output.pdb
-progress.state
+/checkpnt.chk
+/nvt_output.log
+/nvt_output.pdb
+/progress.state
